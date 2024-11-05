@@ -1,9 +1,6 @@
-# Isekai-Shell
-A Customized Shell made with the help of C language
-
 # Isekai Shell - Gateway to a Parallel Digital Universe
 
-Welcome to **Isekai Shell**! This custom shell is designed to enhance your command-line experience with an intuitive interface for executing commands, managing processes, job control, I/O redirection, and much more. Here, you’ll find everything you need to install, use, and understand the Isekai Shell’s features.
+Welcome to **Isekai Shell**! This custom shell is designed with the use of C language to enhance your command-line experience with an intuitive interface for executing commands, managing processes, job control, I/O redirection, and much more. Here, you’ll find everything you need to install, use, and understand the Isekai Shell’s features.
 
 ## Overview
 
