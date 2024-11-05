@@ -1,0 +1,5 @@
+ip.txt
+isekai.c
+isekai_shell
+op.txt
+test
